@@ -16,8 +16,6 @@ Accomplishments:
 Current Focus:
 Innovating solutions with a focus on performance, scalability, and clean architecture. Actively contributing to open-source communities and advancing software engineering best practices.
 
-Let me know if you'd like specific edits or adjustments for a more personal tone!
-
 - 🔭 Personal project: https://ohiare.com
 - 💬 Ask me about Creative Solutions
 - 📫 Reach Me At: https://ohiare.com
