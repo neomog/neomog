@@ -1,4 +1,6 @@
-Driven and detail-oriented software engineer with expertise in building, optimizing, and scaling web applications using modern frameworks and technologies. I specialize in backend development, RESTful APIs, and database management while leveraging my skills to create efficient, scalable, and secure solutions.
+Hey 👋
+
+I am Nath and i am a driven and detail-oriented software engineer with expertise in building, optimizing, and scaling web applications using modern frameworks and technologies. I specialize in backend development, RESTful APIs, and database management while leveraging my skills to create efficient, scalable, and secure solutions.
 
 Key Areas of Expertise:
 - Backend Development: PHP, JavaScript, 
